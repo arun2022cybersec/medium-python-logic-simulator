@@ -1,4 +1,4 @@
-python\_package package
+python\_logic\_simulator package
 =======================
 
 Subpackages
@@ -7,15 +7,15 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   python_package.hello_world
+   python_logic_simulator.hello_world
 
 Submodules
 ----------
 
-python\_package.setup module
+python\_logic\_simulator.setup module
 ----------------------------
 
-.. automodule:: python_package.setup
+.. automodule:: python_logic_simulator.setup
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ python\_package.setup module
 Module contents
 ---------------
 
-.. automodule:: python_package
+.. automodule:: python_logic_simulator
    :members:
    :undoc-members:
    :show-inheritance:
